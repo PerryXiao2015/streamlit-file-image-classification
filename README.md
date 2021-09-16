@@ -4,3 +4,8 @@ This Streamlit Image Classification App allows you to classify a image (uploaded
 
 Profesorr Perry Xiao<br>
 Copyright (a) 2020 London Soutn Bank University
+
+Launch the web app:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/perryxiao2015/streamlit-file-image-classification/main/StreamlitFileImageClassification.py)
+
